@@ -1,0 +1,21 @@
+country,price_usd_per_liter,currency,last_updated,source_note
+India,1.1,USD,2026-03-16,GlobalPetrolPrices.com
+USA,1.01,USD,2026-03-16,GlobalPetrolPrices.com
+UK,1.82,USD,2026-03-16,GlobalPetrolPrices.com
+Germany,2.36,USD,2026-03-16,GlobalPetrolPrices.com
+France,2.08,USD,2026-03-16,GlobalPetrolPrices.com
+Japan,1.0,USD,2026-03-16,GlobalPetrolPrices.com
+Australia,1.31,USD,2026-03-16,GlobalPetrolPrices.com
+Canada,1.3,USD,2026-03-16,GlobalPetrolPrices.com
+Brazil,1.2,USD,2026-03-16,GlobalPetrolPrices.com
+South Africa,1.22,USD,2026-03-16,GlobalPetrolPrices.com
+Pakistan,1.15,USD,2026-03-16,GlobalPetrolPrices.com
+China,1.19,USD,2026-03-16,GlobalPetrolPrices.com
+Russia,0.85,USD,2026-03-16,GlobalPetrolPrices.com
+Mexico,1.46,USD,2026-03-16,GlobalPetrolPrices.com
+Turkey,1.39,USD,2026-03-16,GlobalPetrolPrices.com
+Nigeria,,USD,2026-03-16,GlobalPetrolPrices.com
+Indonesia,,USD,2026-03-16,GlobalPetrolPrices.com
+Saudi Arabia,0.62,USD,2026-03-16,GlobalPetrolPrices.com
+UAE,0.68,USD,2026-03-16,GlobalPetrolPrices.com
+Egypt,0.46,USD,2026-03-16,GlobalPetrolPrices.com
